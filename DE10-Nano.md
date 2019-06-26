@@ -1,8 +1,10 @@
 # DE10-Nano Dev Kit SoC
 
-Built by Terasic --> [manufacturer's page][terasic]
-Mine came from Mouser --> [product page][mouser]
-I made a video --> [unboxing & overview][youtube]
+Built by [Terasic][terasic]
+
+Mine came from [Mouser][mouser]
+
+I made an [unboxing & overview][youtube] video
 
 ## Altera Cyclone V FPGA
 
